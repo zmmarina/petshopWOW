@@ -1,5 +1,5 @@
 <h1>Petshop WOW</h1> 
-<p>The user can fill the form with his/her information and all the content is saved in MongoDB, while an email is automatically sent to the user (standard message) and to the admin (user's request).</p>
+<p>The user can fill this responsive form with his/her information and all the content is saved in MongoDB, while an email is automatically sent to the user (standard message) and to the admin (user's request).</p>
 
 <h2>:dog: Back-End</h2>
 <ul>
